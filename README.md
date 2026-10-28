@@ -20,7 +20,7 @@ My experience ranges from low-level programming and web development to AI-driven
 |:---:|---|---|:---:|
 | LCOM | [LCOM Project](https://github.com/JpMars05/LCOM_Project) | Interactive shooting-training game developed in C for MINIX, involving low-level programming, hardware interaction and device drivers. | **18** |
 | LBAW | [Gatherly](https://github.com/JpMars05/Y3S1-LBAW-Gatherly) | Collaborative event management platform for creating, organizing and participating in public and private events. | **19** |
-| CG | Wagon Rush | Interactive 3D game built with JavaScript, WebGL and GLSL, featuring procedural terrain, shaders, animations and collision detection. | **18** |
+| CG | [Wagon Rush](https://github.com/JpMars05/CG-Wagon-Rush) | Interactive 3D game built with JavaScript, WebGL and GLSL, featuring procedural terrain, shaders, animations and collision detection. | **18** |
 
 ## 🔬 Research & Experience
 
