@@ -14,30 +14,23 @@ My experience ranges from low-level programming and web development to AI-driven
 
 **Tools & Platforms:** Git · Linux · Docker · Jupyter
 
-## 🚀 Featured Projects
+## 🚀 Academic Projects
 
-### 🛰️ UAV Detection & Geospatial Analysis
-*Computer Vision · Deep Learning · Geospatial Analysis*
+| Course | Project | Description | Grade (/20) |
+|:---:|---|---|:---:|
+| LCOM | [LCOM Project](https://github.com/JpMars05/LCOM_Project) | Interactive shooting-training game developed in C for MINIX, involving low-level programming, hardware interaction and device drivers. | **18** |
+| LBAW | [Gatherly](https://github.com/JpMars05/Y3S1-LBAW-Gatherly) | Collaborative event management platform for creating, organizing and participating in public and private events. | **19** |
+| CG | Wagon Rush | Interactive 3D game built with JavaScript, WebGL and GLSL, featuring procedural terrain, shaders, animations and collision detection. | **18** |
+
+## 🔬 Research & Experience
+
+### 🛰️ UAV Detection & Geospatial Analysis — INESC TEC
 
 Developed a computer vision pipeline to detect people and objects in real-world UAV imagery and map their positions to geographic coordinates.
 
-**Technologies:** Python, PyTorch, YOLO, OpenCV
+**Technologies:** Python · PyTorch · YOLO · OpenCV
 
-### 🎮 [LCOM Project](https://github.com/JpMars05/LCOM_Project)
-*Low-Level Programming · Systems Engineering*
-
-Developed an interactive application in C for MINIX, working directly with hardware devices, interrupts, and low-level system interfaces.
-
-**Technologies:** C, MINIX
-
-### 🌐 [Gatherly — Event Management Platform](https://github.com/JpMars05/Y3S1-LBAW-Gatherly)
-*Full-Stack Development · Web Applications*
-
-Built a collaborative web platform for creating, managing, and participating in events, with features designed around user interaction and event organization.
-
-**Focus:** Backend Development, Databases, Web Development
-
-## 🔬 Research Interests
+## 📚 Research Interests
 
 - Computer Vision & Deep Learning
 - UAVs & Autonomous Systems
