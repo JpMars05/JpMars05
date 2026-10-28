@@ -1,59 +1,50 @@
-Hi there, I'm João Sousa 👋
+# Hi, I'm João Sousa 👋
 
-MSc Student in Informatics and Computing Engineering @ FEUP
+🎓 **MSc student in Informatics and Computing Engineering at FEUP**, University of Porto.
 
-Passionate about Artificial Intelligence, Computer Vision, Software Engineering and applied research.
+I'm passionate about **software development, artificial intelligence, and computer vision**, with a particular interest in applying these technologies to real-world challenges.
 
-I'm particularly interested in developing intelligent systems that connect cutting-edge research with real-world applications.
+My experience ranges from low-level programming and web development to AI-driven research, including computer vision and geospatial analysis of UAV imagery at **INESC TEC**.
 
-🔬 About Me
+## 🛠️ Tech Stack
 
-🎓 Studying at the Faculty of Engineering of the University of Porto (FEUP).
+**Languages:** Python · C · C++ · SQL
 
-🔭 Experience in UAV-based Computer Vision and geospatial data analysis at INESC TEC.
+**AI & Computer Vision:** PyTorch · OpenCV · YOLO
 
-🧠 Interested in Machine Learning, Deep Learning, autonomous systems and AI agents.
+**Tools & Platforms:** Git · Linux · Docker · Jupyter
 
-💻 Enjoy building software, from low-level systems to full-stack applications.
+## 🚀 Featured Projects
 
-📍 Based in Portugal.
+### 🛰️ UAV Detection & Geospatial Analysis
+*Computer Vision · Deep Learning · Geospatial Analysis*
 
-🛠️ Tech Stack
+Developed a computer vision pipeline to detect people and objects in real-world UAV imagery and map their positions to geographic coordinates.
 
-Languages: Python · C · C++ · SQL
+**Technologies:** Python, PyTorch, YOLO, OpenCV
 
-AI & Computer Vision: PyTorch · OpenCV · YOLO · Object Detection
+### 🎮 [LCOM Project](https://github.com/JpMars05/LCOM_Project)
+*Low-Level Programming · Systems Engineering*
 
-Tools & Systems: Git · Linux · Docker · Jupyter
+Developed an interactive application in C for MINIX, working directly with hardware devices, interrupts, and low-level system interfaces.
 
-🚀 Featured Projects
+**Technologies:** C, MINIX
 
-UAV Detection & Geospatial Analysis
+### 🌐 [Gatherly — Event Management Platform](https://github.com/JpMars05/Y3S1-LBAW-Gatherly)
+*Full-Stack Development · Web Applications*
 
-Computer Vision pipeline for processing real-world UAV imagery, detecting objects and people, and transforming image detections into geographic coordinates.
+Built a collaborative web platform for creating, managing, and participating in events, with features designed around user interaction and event organization.
 
-Python PyTorch YOLO OpenCV Geospatial Analysis
+**Focus:** Backend Development, Databases, Web Development
 
-LCOM Project
+## 🔬 Research Interests
 
-Low-level systems programming project developed in C for MINIX, focusing on hardware interaction, interrupts and device drivers.
+- Computer Vision & Deep Learning
+- UAVs & Autonomous Systems
+- Visual Localization & SLAM
+- Geospatial Analysis
+- Large Language Models & AI Agents
 
-View Repository
+---
 
-Gatherly — Event Management Platform
-
-Collaborative web application for creating, managing and participating in public and private events.
-
-Web Development Databases Backend
-
-📚 Research Interests
-
-Computer Vision & Deep Learning
-
-UAVs & Autonomous Systems
-
-Geospatial Intelligence
-
-Visual Localization & SLAM
-
-Local LLMs & AI Agents
+📍 **Portugal** · Always interested in learning, building, and exploring new ideas.
