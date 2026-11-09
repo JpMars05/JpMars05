@@ -19,9 +19,7 @@ Developed a computer vision and georeferencing pipeline to extract spatial infor
 - **Spatial Analysis:** Clustering techniques to generate points of interest with crowd estimates, density information, and reliability indicators.
 - **Visualization:** Interactive maps and KML exports for geographic data exploration.
 
-**Publication:** *From UAV Imagery to User-Distribution Information for Flying Networks* — Accepted and presented at the **2026 IEEE Future Networks World Forum (FNWF)**. Publication forthcoming.
-
-**Technologies:** Python · PyTorch · YOLO11 · SAHI · P2PNet · OpenCV · NumPy · pandas · Folium
+**Publication:** *From UAV Imagery to User-Distribution Information for Flying Networks* — Presented at the **2026 IEEE Future Networks World Forum (FNWF)**. Publication forthcoming.
 
 **Repository:** [ComputerVision-UAV-Detection-System](https://github.com/JpMars05/ComputerVision-UAV-Detection-System)
 
