@@ -2,9 +2,9 @@
 
 🎓 **MSc student in Informatics and Computing Engineering at FEUP**, University of Porto.
 
-I'm interested in computer vision, deep learning, and autonomous systems, particularly in connecting visual perception with spatial information.
+I'm interested in software development, artificial intelligence, and computer vision. I enjoy understanding how systems work and building practical solutions, from low-level programming and web applications to AI and interactive graphics.
 
-During my internship at **INESC TEC**, I developed a pipeline that transforms UAV imagery and flight telemetry into georeferenced information about crowds and parade floats. My broader experience includes low-level programming, web development, and interactive graphics.
+I'm currently pursuing an MSc in Informatics and Computing Engineering at FEUP, where I'm expanding my knowledge and exploring new research interests.
 
 ## 🔬 Research & Experience
 
