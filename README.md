@@ -1,32 +1,31 @@
-# Hi, I'm João Sousa 👋
+# João Sousa
 
-🎓 **MSc student in Informatics and Computing Engineering at FEUP**, University of Porto.
+**MSc Student in Informatics and Computing Engineering | FEUP, University of Porto**
 
-I'm interested in software development, artificial intelligence, and computer vision. I enjoy understanding how systems work and building practical solutions, from low-level programming and web applications to AI and interactive graphics.
+I'm interested in software engineering, artificial intelligence, and computer vision, with a focus on developing practical solutions to real-world problems.
 
-I'm currently pursuing an MSc in Informatics and Computing Engineering at FEUP, where I'm expanding my knowledge and exploring new research interests.
+My experience spans low-level programming, web development, interactive graphics, and AI-driven research. I'm currently pursuing my MSc at FEUP, exploring advanced topics in computer vision, autonomous systems, and intelligent software.
 
-## 🔬 Research & Experience
+## Research & Experience
 
-### 🛰️ UAV Computer Vision & Geospatial Analysis — INESC TEC
+### UAV Computer Vision & Geospatial Analysis | INESC TEC
 
-Developed a perception and georeferencing pipeline to estimate crowd distribution from aerial imagery, producing spatial information for Flying Network management.
+Developed a computer vision and georeferencing pipeline to extract spatial information from UAV imagery, supporting crowd distribution analysis and Flying Network management.
 
-The work combines:
+**Key components:**
+- **Object Detection:** YOLO11 and SAHI for detecting parade floats in high-resolution aerial imagery.
+- **Crowd Analysis:** P2PNet for crowd counting and individual person localization.
+- **Georeferencing:** Camera geometry, flight telemetry, and terrain elevation data for geographic projection.
+- **Spatial Analysis:** Clustering techniques to generate points of interest with crowd estimates, density information, and reliability indicators.
+- **Visualization:** Interactive maps and KML exports for geographic data exploration.
 
-- **YOLO11 + SAHI** for parade-float detection in high-resolution images.
-- **P2PNet** for crowd counting and individual person localization.
-- Camera geometry, flight telemetry, and terrain elevation for geographic projection.
-- Spatial clustering to generate points of interest with crowd counts, density estimates, and geometric reliability indicators.
-- Interactive maps and KML exports for exploring the results.
-
-**Research output:** *From UAV Imagery to User-Distribution Information for Flying Networks*, accepted and presented at the **2026 IEEE Future Networks World Forum (FNWF)**. Publication forthcoming.
+**Publication:** *From UAV Imagery to User-Distribution Information for Flying Networks* — Accepted and presented at the **2026 IEEE Future Networks World Forum (FNWF)**. Publication forthcoming.
 
 **Technologies:** Python · PyTorch · YOLO11 · SAHI · P2PNet · OpenCV · NumPy · pandas · Folium
 
-🔗 **[Explore the project: ComputerVision-UAV-Detection-System](https://github.com/JpMars05/ComputerVision-UAV-Detection-System)**
+**Repository:** [ComputerVision-UAV-Detection-System](https://github.com/JpMars05/ComputerVision-UAV-Detection-System)
 
-## 📚 Research Interests
+## Research Interests
 
 - Computer Vision & Deep Learning
 - UAVs & Autonomous Systems
@@ -34,17 +33,17 @@ The work combines:
 - Geospatial Analysis
 - Large Language Models & AI Agents
 
-## 🚀 Academic Projects
+## Selected Academic Projects
 
 | Course | Project | Description | Grade (/20) |
 |:---:|---|---|:---:|
-| LCOM | [LCOM Project](https://github.com/JpMars05/LCOM_Project) | Interactive shooting-training game developed in C for MINIX, involving low-level programming, hardware interaction, and device drivers. | **18** |
-| LBAW | [Gatherly](https://github.com/JpMars05/Y3S1-LBAW-Gatherly) | Collaborative platform for creating, organizing, and participating in public and private events. | **19** |
-| CG | [Wagon Rush](https://github.com/JpMars05/CG-Wagon-Rush) | Interactive 3D game built with JavaScript, WebGL, and GLSL, featuring procedural terrain, shaders, animations, and collision detection. | **18** |
+| LCOM | [LCOM Project](https://github.com/JpMars05/LCOM_Project) | Interactive shooting-training game developed in C for MINIX, focusing on low-level programming, hardware interaction, and device drivers. | **18** |
+| LBAW | [Gatherly](https://github.com/JpMars05/Y3S1-LBAW-Gatherly) | Web platform for creating, managing, and participating in public and private events. | **19** |
+| CG | [Wagon Rush](https://github.com/JpMars05/CG-Wagon-Rush) | Interactive 3D game developed with JavaScript, WebGL, and GLSL, featuring procedural terrain, shaders, animations, and collision detection. | **18** |
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-**Languages:** Python · C · C++ · JavaScript · SQL
+**Programming Languages:** Python · C · C++ · JavaScript · SQL
 
 **AI & Computer Vision:** PyTorch · OpenCV · YOLO · SAHI
 
@@ -52,4 +51,4 @@ The work combines:
 
 ---
 
-📍 **Portugal** · Interested in research opportunities in computer vision, AI, and autonomous systems.
+Based in Portugal | Interested in research and development opportunities in computer vision, AI, and autonomous systems.
